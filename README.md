@@ -17,7 +17,7 @@ The Sweet Treat Bakery website is deployed using [Netlify](https://www.netlify.c
 ## Setup and Installation
 
 1. Clone this repository to your local machine.
-2. Navigate to the project directory: `cd sweet-treat-bakery`.
+2. Navigate to the project directory: `cd react_bakery-app`.
 3. Install dependencies using Yarn: `yarn install`.
 4. Start the development server: `yarn start`.
 5. Open your browser and visit `http://localhost:3000` to see the website.
