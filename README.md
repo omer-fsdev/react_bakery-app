@@ -12,7 +12,7 @@ Welcome to the Sweet Treat Bakery website. This project showcases the delightful
 
 The Sweet Treat Bakery website is deployed using [Netlify](https://www.netlify.com/). You can access the live version by clicking the link below:
 
-[**Sweet Treat Bakery - Live Demo**](https://example-netlify-link.com)
+[**Sweet Treat Bakery**](https://sweet-treat-bakery.netlify.app)
 
 ## Setup and Installation
 
